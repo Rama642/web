@@ -1,6 +1,5 @@
 # LV 1 zadatak - Web stranica Filmovita
 
-### LINK: [Postavite link na vašu objavljenu stranicu ovdje]
 
 <hr />
 
@@ -201,12 +200,11 @@ Projekt je testiran s:
 ## 👨‍💻 Autor
 
 Web programiranje - LV1 zadatak
-2024./2025.
+2025./2026.
 
 ## 📄 Licenca
 
-Sva prava pridržana © 2025 Filmovita
+Sva prava pridržana © 2026 Filmovita
 
 ---
 
-**Napomena**: Prije objave, postavite link na objavljenu stranicu u sekciji LINK na vrhu ovog dokumenta.
